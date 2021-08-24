@@ -9,5 +9,5 @@
 \
 int main()\
 \{\
-	std::cout << \'93Hello, world!\'94 << std::end;\
+	std::cout << \'93Fight On!\'94 << std::end;\
 \}}
